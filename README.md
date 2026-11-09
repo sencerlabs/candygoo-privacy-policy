@@ -26,6 +26,10 @@ If you choose Create backup, your game records are written to a file you select.
 
 Local app data remains until you clear the app's storage or uninstall it. These actions can erase your progress. Exported backup files are separate and are not automatically deleted when the app is uninstalled; delete them from the location where you saved them. Restoring a backup replaces your current local save. No server-based save recovery is provided.
 
+### Intended audience
+
+CandyGoo is intended for users aged 13 and above. It does not provide an online account or ask you to enter a date of birth. If you believe a child has sent personal information to our support address, contact support@sencer.app about its removal.
+
 ### Support communications
 
 If you voluntarily email support@sencer.app, your email address, message and any attachments you choose to send are handled to answer your request. Do not send passwords or unnecessary sensitive information. You may contact the same address about your support correspondence or request its deletion, subject to any applicable retention obligations.
@@ -53,6 +57,10 @@ Yedek oluştur seçeneğini kullanırsanız oyun kayıtlarınız seçtiğiniz do
 ### Saklama ve silme
 
 Yerel uygulama verileri, uygulamanın depolamasını temizleyene veya uygulamayı kaldırana kadar tutulur. Bu işlemler ilerlemenizi silebilir. Dışarı aktardığınız yedek dosyaları ayrıdır ve uygulama kaldırıldığında otomatik silinmez; bunları kaydettiğiniz konumdan ayrıca silebilirsiniz. Bir yedeği geri yüklemek mevcut yerel kaydın yerini alır. Sunucu üzerinden kayıt kurtarma sunulmaz.
+
+### Hedef yaş kitlesi
+
+CandyGoo, 13 yaş ve üzerindeki kullanıcılara yöneliktir. Çevrimiçi hesap sunmaz ve doğum tarihi girmenizi istemez. Bir çocuğun destek adresimize kişisel bilgi gönderdiğini düşünüyorsanız kaldırılması için support@sencer.app adresine başvurabilirsiniz.
 
 ### Destek yazışmaları
 
